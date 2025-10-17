@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<p align=""><a href="#"><img width="40%" src="./images/opensource.jpeg" /></a></p>
+<p align=""><a href="#"><img width="40%" src="./cover photo.png" /></a></p>
 
 <!--
 
